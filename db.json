@@ -1,0 +1,186 @@
+{
+  "tweets": [
+    {
+      "sender": {
+        "name": "samsung",
+        "id": "sam",
+        "img": "/image/samsung.jpg"
+      },
+      "text": "1. ‏در حال حاضر نقش تنباکو دو سيب از توپ چهل تيکه تو فوتبال #ايران پررنگتره2. کتاب پست هاي #اينستاگرامي ضرغامي هم بعد از کتاب پست هاي اينستاگرام صابر ابر دراومد. ..",
+      "likes": 123
+    },
+    {
+      "sender": {
+        "name": "Mehran Modiri",
+        "id": "m.modiri",
+        "img": "/image/modiri.jpg"
+      },
+      "text": "1. ‏در حال حاضر نقش تنباکو دو سيب از توپ چهل تيکه تو فوتبال #ايران پررنگتره. 2. کتاب پست هاي #اينستاگرامي ضرغامي هم بعد از کتاب پست هاي اينستاگرام صابر ابر دراومد. .",
+      "likes": 12
+    },
+    {
+      "sender": {
+        "name": "jasim karami",
+        "id": "j.kari",
+        "img": "/image/jasim.jpg"
+      },
+      "text": "1. ‏در حال حاضر نقش تنباکو دو سيب از توپ چهل تيکه تو فوتبال #ايران پررنگتره. 2. کتاب پست هاي #اينستاگرامي ضرغامي هم بعد از کتاب پست هاي اينستاگرام صابر ابر دراومد. .",
+      "likes": 12332
+    },
+    {
+      "sender": {
+        "name": "bill gates",
+        "id": "bill",
+        "img": "/image/bill.jpg"
+      },
+      "text": "1. ‏در حال حاضر نقش تنباکو دو سيب از توپ چهل تيکه تو فوتبال #ايران پررنگتره. 2. کتاب پست هاي #اينستاگرامي ضرغامي هم بعد از کتاب پست هاي اينستاگرام صابر ابر دراومد. .",
+      "likes": 1
+    },
+    {
+      "sender": {
+        "name": "Ronaldo",
+        "id": "Cr7",
+        "img": "/image/ronaldo.jpg"
+      },
+      "text": "1. ‏در حال حاضر نقش تنباکو دو سيب از توپ چهل تيکه تو فوتبال #ايران پررنگتره. 2. کتاب پست هاي #اينستاگرامي ضرغامي هم بعد از کتاب پست هاي اينستاگرام صابر ابر دراومد. .",
+      "likes": 123654
+    },
+    {
+      "id": 965,
+      "sender": {
+        "name": "Mohammad",
+        "id": "@m.mehrabi",
+        "img": "/image/jasim.jpg"
+      },
+      "text": "sdasd",
+      "like": 63
+    },
+    {
+      "id": 407,
+      "sender": {
+        "name": "Mohammad",
+        "id": "@m.mehrabi",
+        "img": "/image/jasim.jpg"
+      },
+      "text": "من هستم یک جیم کری ",
+      "like": 63
+    },
+    {
+      "id": 185,
+      "sender": {
+        "name": "Mohammad",
+        "id": "@m.mehrabi",
+        "img": "/image/jasim.jpg"
+      },
+      "text": "صیصی",
+      "like": 63
+    },
+    {
+      "id": 658,
+      "sender": {
+        "name": "Mohammad",
+        "id": "@m.mehrabi",
+        "img": "/image/jasim.jpg"
+      },
+      "text": "جیم کری",
+      "like": 63
+    },
+    {
+      "id": 401,
+      "sender": {
+        "name": "Mohammad",
+        "id": "@m.mehrabi",
+        "img": "/image/jasim.jpg"
+      },
+      "text": "ghh",
+      "like": 63
+    },
+    {
+      "id": 52,
+      "sender": {
+        "name": "Mohammad",
+        "id": "@m.mehrabi",
+        "img": "/image/jasim.jpg"
+      },
+      "text": "sd",
+      "like": 63
+    },
+    {
+      "id": 227,
+      "sender": {
+        "name": "Mohammad",
+        "id": "@m.mehrabi",
+        "img": "/image/jasim.jpg"
+      },
+      "text": "d",
+      "like": 63
+    },
+    {
+      "id": 249,
+      "sender": {
+        "name": "Mohammad",
+        "id": "@m.mehrabi",
+        "img": "/image/jasim.jpg"
+      },
+      "text": "xfg",
+      "like": 63
+    },
+    {
+      "id": 230,
+      "sender": {
+        "name": "Mohammad",
+        "id": "@m.mehrabi",
+        "img": "/image/jasim.jpg"
+      },
+      "text": "xfg",
+      "like": 63
+    },
+    {
+      "id": 593,
+      "sender": {
+        "name": "Mohammad",
+        "id": "@m.mehrabi",
+        "img": "/image/jasim.jpg"
+      },
+      "text": "sd",
+      "like": 63
+    }
+  ],
+  "hashTags": [
+    "پرچم_دار_جدید",
+    "سامسونگ",
+    "کرونا_ویروس",
+    "هلو_سامر",
+    "لس_آنجلس",
+    "مدیرترانه",
+    "آریون",
+    "یوسف_آباد"
+  ],
+  "users": [
+    {
+      "name": "Ronaldo",
+      "id": "Cr7",
+      "img": "/image/ronaldo.jpg"
+    },
+    {
+      "name": "Mehran Modiri",
+      "id": "m.modiri",
+      "img": "/image/modiri.jpg"
+    },
+    {
+      "name": "bill gates",
+      "id": "bill",
+      "img": "/image/bill.jpg"
+    },
+    {
+      "name": "jasim karami",
+      "id": "j.kari",
+      "img": "/image/jasim.jpg"
+    },
+    {
+      "name": "samsung",
+      "id": "sam",
+      "img": "/image/samsung.jpg"
+    }
+  ]
+}
