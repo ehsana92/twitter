@@ -18,6 +18,7 @@ export const registerApi = (user, callback) => {
             callback(true, data);
         }).catch(error => {
             callback(false, error.response.data.message)
+            console.log('data : ', user);
         })
 }
 export const uploadUserPhoto = (photo, callback) => {
